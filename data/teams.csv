@@ -1,4 +1,4 @@
-﻿# id, name, code, color, country_id
+﻿id, name, code, color, country_id
 1, Alavés, ALA, #0232A0, 4
 2, Athletic Club, BIL, #B0B0B0, 4
 3, Atlético Madrid, ATM, #CB3524, 4
@@ -33,3 +33,4 @@
 32, Hércules, HRC, #FFFFFF, 4
 33, Zaragoza, ZAR, #FFFFFF, 4
 34, Racing Santander, RSA, #FFFFFF, 4
+
