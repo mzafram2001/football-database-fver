@@ -1,4 +1,4 @@
-## ⚽️ FootballR API [v20240902]
+## ⚽️ football-soccer-dataset [v20240902]
 
 ![Banner](https://raw.githubusercontent.com/mzafram2001/footballr-api/main/src/readme/footballr_banner_2.png)
 
